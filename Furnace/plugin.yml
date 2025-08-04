@@ -1,9 +1,0 @@
-name: Furnace
-main: root\pxmodptdr\Main
-author: PxModPTDR
-version: 1.0.0
-api: 5.0.0
-permissions:
-  furnace.cmd:
-    default: op
-    website: https://discord.gg/Jg3v9QKhw4
