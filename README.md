@@ -26,4 +26,4 @@ furnace_cuit : "§2-§f Votre {item} a été cuit !"
 furnace_no_cuit : "§c-§f Votre item en main ne peut pas être cuit !"
 ```
 ROOT PM SHOP :
-[![Discord](https://img.shields.io/discord/1260916536718135328?label=Discord&logo=discord&color=blue)](https://discord.gg/Jg3v9QKhw4)
+[![Discord](https://img.shields.io/discord/1398975822160990379?label=Discord&logo=discord&color=blue)](https://discord.gg/Jg3v9QKhw4)
